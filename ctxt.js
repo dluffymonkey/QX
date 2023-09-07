@@ -8,11 +8,9 @@
 *******************************
 
 [rewrite_local]
-
 https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/dluffymonkey/QX/main/context.js
 
 [mitm] 
-
 hostname = api.revenuecat.com
 
 *******************************/
