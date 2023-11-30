@@ -29,3 +29,7 @@
 8. [App解锁合集-骨钉](https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.sgmodule)
 9.  [App解锁合集-叮当猫](https://raw.githubusercontent.com/chxm1023/Script_X/main/Collections.sgmodule)
 10. [Script Hub](https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule)
+
+
+### QX && Surge 分流
+1. [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)
